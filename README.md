@@ -1,8 +1,6 @@
-# finding_donors
-
-
 # Supervised Learning
 ## Project: Finding Donors for CharityML
+This project is done as a requirement for the Data Science Nano Degree at [Udacity](https://www.udacity.com/)
 
 ### Install
 
